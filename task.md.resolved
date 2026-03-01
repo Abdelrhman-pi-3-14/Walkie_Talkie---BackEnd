@@ -1,0 +1,6 @@
+# Task List
+
+- [ ] Debug Python execution opening files
+  - [ ] Check what `python` resolves to
+  - [ ] Inspect the virtual environment structure
+  - [ ] Fix the Python executable or virtual environment
